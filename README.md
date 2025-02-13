@@ -4,9 +4,12 @@
 
 ## 🔭 Current Focus
 I'm currently working on exploring advanced topics in artificial intelligence and machine learning, with a particular focus on:
+- AI
+- Machine learning
+- Deep Reinforcement Learning (DRL)
+- Deep learning
 - Natural Language Processing (NLP)
 - Big Data Analytics
-- Deep Learning Applications
 - Reinforcement Learning
 
 ## 👯 Collaboration Interests
