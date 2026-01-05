@@ -1,6 +1,6 @@
 # Hi there, I'm B venkat vinod kumar ! 👋
 
-### Welcome to my GitHub profile! I'm a passionate Computer Science Engineer specializing in Artificial Intelligence.
+### Welcome to my GitHub profile! I'm a passionate Computer Science Engineer specialized in Artificial Intelligence.
 
 ## 🔭 Current Focus
 I'm currently working on exploring advanced topics in artificial intelligence and machine learning, with a particular focus on:
